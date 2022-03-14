@@ -1,0 +1,26 @@
+.landing {
+    background-image: url('https://64.media.tumblr.com/cc3f020e6aef83775e5013b5a01c4634/tumblr_pmbr1j0zmG1rn5gv3o1_500.gif');
+    height: 100%;
+    background-size: 100% 100%;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.button {
+    background-color: white;
+    border-radius: 8px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #555555;
+    color: white;
+}
